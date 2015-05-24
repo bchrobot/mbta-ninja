@@ -1,0 +1,3 @@
+[submodule "packages/meteor-cordova-notifications"]
+	path = packages/meteor-cordova-notifications
+	url = git@github.com:bchrobot/meteor-cordova-notifications.git
